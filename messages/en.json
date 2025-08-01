@@ -1,0 +1,52 @@
+{
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "servers": "Servers",
+    "commands": "Commands",
+    "settings": "Settings",
+    "analytics": "Analytics",
+    "logs": "Logs"
+  },
+  "home": {
+    "title": "ByLion Dashboard",
+    "subtitle": "Discord Bot Management Panel",
+    "description": "Easily manage your Discord bot and control your servers",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "addBot": "Add Bot",
+    "dashboardPreview": "Dashboard Preview",
+    "activeUsers": "Active Users",
+    "commands": "Commands",
+    "servers": "Servers",
+    "features": {
+      "title": "Features",
+      "management": {
+        "title": "Bot Management",
+        "description": "Easily configure and manage your Discord bot"
+      },
+      "analytics": {
+        "title": "Analytics",
+        "description": "Track your bot usage and server statistics"
+      },
+      "commands": {
+        "title": "Command Management",
+        "description": "Customize and manage bot commands"
+      }
+    }
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close"
+  }
+}

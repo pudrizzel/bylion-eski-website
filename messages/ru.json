@@ -1,0 +1,47 @@
+{
+  "navigation": {
+    "home": "Главная",
+    "dashboard": "Панель управления",
+    "servers": "Серверы",
+    "commands": "Команды",
+    "settings": "Настройки",
+    "analytics": "Аналитика",
+    "logs": "Логи"
+  },
+  "home": {
+    "title": "ByLion Dashboard",
+    "subtitle": "Панель управления Discord ботом",
+    "description": "Легко управляйте своим Discord ботом и контролируйте серверы",
+    "getStarted": "Начать",
+    "learnMore": "Узнать больше",
+    "features": {
+      "title": "Возможности",
+      "management": {
+        "title": "Управление ботом",
+        "description": "Легко настраивайте и управляйте своим Discord ботом"
+      },
+      "analytics": {
+        "title": "Аналитика",
+        "description": "Отслеживайте использование бота и статистику сервера"
+      },
+      "commands": {
+        "title": "Управление командами",
+        "description": "Настраивайте и управляйте командами бота"
+      }
+    }
+  },
+  "common": {
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "success": "Успех",
+    "cancel": "Отмена",
+    "save": "Сохранить",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "add": "Добавить",
+    "back": "Назад",
+    "next": "Далее",
+    "previous": "Предыдущий",
+    "close": "Закрыть"
+  }
+}

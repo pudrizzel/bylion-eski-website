@@ -1,0 +1,52 @@
+{
+  "navigation": {
+    "home": "Ana Sayfa",
+    "dashboard": "Panel",
+    "servers": "Sunucular",
+    "commands": "Komutlar",
+    "settings": "Ayarlar",
+    "analytics": "Analitik",
+    "logs": "Loglar"
+  },
+  "home": {
+    "title": "ByLion Dashboard",
+    "subtitle": "Discord Bot Yönetim Paneli",
+    "description": "Discord botunuzu kolayca yönetin ve sunucularınızı kontrol edin",
+    "getStarted": "Başlayın",
+    "learnMore": "Daha Fazla Bilgi",
+    "addBot": "Botu Ekle",
+    "dashboardPreview": "Panel Önizlemesi",
+    "activeUsers": "Aktif Kullanıcılar",
+    "commands": "Komutlar",
+    "servers": "Sunucular",
+    "features": {
+      "title": "Özellikler",
+      "management": {
+        "title": "Bot Yönetimi",
+        "description": "Discord botunuzu kolayca yapılandırın ve yönetin"
+      },
+      "analytics": {
+        "title": "Analitik",
+        "description": "Bot kullanımınızı ve sunucu istatistiklerinizi takip edin"
+      },
+      "commands": {
+        "title": "Komut Yönetimi",
+        "description": "Bot komutlarını özelleştirin ve yönetin"
+      }
+    }
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "add": "Ekle",
+    "back": "Geri",
+    "next": "İleri",
+    "previous": "Önceki",
+    "close": "Kapat"
+  }
+}

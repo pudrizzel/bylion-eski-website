@@ -1,0 +1,47 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "servers": "Servidores",
+    "commands": "Comandos",
+    "settings": "Configuración",
+    "analytics": "Analítica",
+    "logs": "Registros"
+  },
+  "home": {
+    "title": "ByLion Dashboard",
+    "subtitle": "Panel de gestión del bot de Discord",
+    "description": "Gestiona fácilmente tu bot de Discord y controla tus servidores",
+    "getStarted": "Comenzar",
+    "learnMore": "Saber más",
+    "features": {
+      "title": "Características",
+      "management": {
+        "title": "Gestión del bot",
+        "description": "Configura y gestiona fácilmente tu bot de Discord"
+      },
+      "analytics": {
+        "title": "Analítica",
+        "description": "Rastrea el uso del bot y las estadísticas del servidor"
+      },
+      "commands": {
+        "title": "Gestión de comandos",
+        "description": "Personaliza y gestiona los comandos del bot"
+      }
+    }
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "add": "Añadir",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "close": "Cerrar"
+  }
+}
